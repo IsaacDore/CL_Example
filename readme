@@ -1,0 +1,7 @@
+
+modified version of example code taken from https://www.olcf.ornl.gov/tutorials/opencl-vector-addition/
+made this so I could use it as reference when I use the opencl API
+
+Hopefully this is useful to someone else
+
+also checkout the documentation: https://www.khronos.org/registry/OpenCL/sdk/1.1/docs/man/xhtml/
